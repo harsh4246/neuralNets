@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1614795172 source:c:\users\prerna\desktop\vscode\windspeedpredictor\layer.cpp
+	"Layer.h"
+
+1614795172 c:\users\prerna\desktop\vscode\windspeedpredictor\layer.h
+	<vector>
+
+1614872848 source:c:\users\prerna\desktop\vscode\windspeedpredictor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<fstream>
+	<string.h>
+
